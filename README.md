@@ -2,7 +2,7 @@
 <h3 align="center">🎨 Frontend Developer | UI/UX Enthusiast from Rwanda 🇷🇼</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix">
     <img src="https://github-profile-trophy.vercel.app/?username=nanichris-dushime&theme=dracula&margin-w=15&no-bg=true" alt="nanichris-dushime trophies" />
   </a>
 </p>
