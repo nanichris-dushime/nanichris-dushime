@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 I build beautiful and responsive websites with modern frontend tech  
-- 🌱 I’m currently learning **Fullstack Development (MERN & Vue.js)**  
+- 🌱 I’m currently learning **Fullstack Development (React j.s & Node j.s)**  
 - 💬 Ask me about **HTML, CSS, JS, React, UI/UX, Figma**  
 - 📫 Reach me at: **dushimenani007@gmail.com**  
 - 🧠 Fun fact: I love turning creative ideas into real projects 🎯  
